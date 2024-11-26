@@ -94,7 +94,7 @@ timestamp: 2024-11-25_2152_57
 
 =======================================================================
 =======================================================================
- % ./main.sh
+
 Directory exists: ./key_vault/passcodes
 1. Store passcode
 2. Search and display passcode
