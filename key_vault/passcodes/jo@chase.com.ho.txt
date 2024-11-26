@@ -1,0 +1,4 @@
+account: jo@chase.com
+user_id: ho
+passcode: 345
+timestamp: 2024-11-25_2152_57

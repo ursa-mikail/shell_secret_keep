@@ -1,0 +1,4 @@
+account: me@you.com
+user_id: joe
+passcode: 234
+timestamp: 2024-11-25_2149_15
