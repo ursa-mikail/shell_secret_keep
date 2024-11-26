@@ -14,8 +14,8 @@ timestamp: <YYYY-MM-DD_HHmm_ss>
 <pre>
 Save as tokenised file 
 
-[<account>.<user_id>.txt, e.g.          xx@123.com.joe.txt 
-            where               <account=xx@123.com>.<user_id=joe>] 
+[\<account\>.\<user_id\>.txt, e.g.          xx@123.com.joe.txt 
+            where               \<account=xx@123.com\>.\<user_id=joe\>] 
 
                         under : ./key_vault/passcodes
 </pre>
