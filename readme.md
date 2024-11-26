@@ -8,13 +8,13 @@
 account: 
 user_id: 
 passcode: 
-timestamp: <YYYY-MM-DD_HHmm_ss>
+timestamp: &lt;YYYY-MM-DD_HHmm_ss&gt;
 </pre>
 
 <pre>
 Save as tokenised file 
 
-[&lt;account&gt;.&lt;user_id&gt;.txt, e.g.                  xx@123.com.joe.txt 
+[&lt;account&gt;.&lt;user_id&gt;.txt, e.g.                      xx@123.com.joe.txt 
             where                           &lt;account=xx@123.com&gt;.&lt;user_id=joe&gt;] 
 
                         under : ./key_vault/passcodes
